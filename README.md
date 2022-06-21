@@ -20,6 +20,6 @@ If you have any feedback, please reach out to us at arabitprinceleonar1@gmail.co
 
 ## Screenshots
 
-![App Screenshot](screenshot 1.png)
-![App Screenshot](screenshot 2.png)
+![image](screenshot 1.png)
+![image](screenshot 2.png)
 
