@@ -17,3 +17,9 @@ To deploy this project run
 ## Feedback
 
 If you have any feedback, please reach out to us at arabitprinceleonar1@gmail.com
+
+## Screenshots
+
+![App Screenshot](screenshot 1.png)
+![App Screenshot](screenshot 2.png)
+
